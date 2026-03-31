@@ -1,5 +1,7 @@
-# Cursor
+# Cursor - AI 辅助工具
 # https://www.cursor.com
+#
+# 规则来源/参考 https://github.com/ConnersHua/RuleGo/blob/master/Surge/Ruleset/Extra/AI.list#L40
 
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
